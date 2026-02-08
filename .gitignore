@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.git-blame-ignore-revs
+.DS_Store
+Thumbs.db
+
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+.ENV
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build and distribution
+dist/
+build/
+*.egg
+*.egg-info/
+*.eggs/
+.installed.cfg
+*.egg-link
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.hypothesis/
+
+# Local configuration
+.env
+.env.local
+.env.backup
+.env.dev
+.todo.db
+*.db
+*.db-journal
+
+# Documentation
+docs/_build/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
